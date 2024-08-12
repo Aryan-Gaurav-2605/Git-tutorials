@@ -1,1 +1,1 @@
-this is utils version 1 of git-oriented software.
+this is utils Version 1 of git-oriented software.
